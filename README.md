@@ -1,4 +1,4 @@
-# Docker image with docker, docker-compose, awscli and make
+# Docker image with docker, docker-compose, awscli and other tools
 
 [Docker](https://hub.docker.com/_/docker/) with [Docker Compose (python3)](https://github.com/docker/compose) installed for CI.
 
